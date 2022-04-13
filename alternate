@@ -1,0 +1,7 @@
+"""
+with open(umsatz_januar, 'r') as csv_file:
+    csv_reader = csv.reader(csv_file, delimiter=' ', quotechar='|')
+
+    for line in csv_file:
+        print(line)
+"""
